@@ -17,7 +17,7 @@ Before this I was a Product Analyst at slice Small Finance Bank, and I studied m
 
 ## More of what I work on
 
-- **LLMs and agents**: [antiks-text-to-sql](https://github.com/Niyathnair/antiks-text-to-sql), [ncluxh-ai](https://github.com/Niyathnair/ncluxh-ai)
+- **LLMs and agents**: [antiks-text-to-sql](https://github.com/Niyathnair/antiks-text-to-sql), [business-agent-crew](https://github.com/Niyathnair/business-agent-crew)
 - **ML and forecasting**: [churn-prediction-sagemaker](https://github.com/Niyathnair/churn-prediction-sagemaker), [rohlik-orders-forecasting](https://github.com/Niyathnair/rohlik-orders-forecasting), [bitcoin-price-lstm](https://github.com/Niyathnair/bitcoin-price-lstm)
 - **NLP**: [aspect-based-sentiment-analysis](https://github.com/Niyathnair/aspect-based-sentiment-analysis), [vader-vs-roberta-sentiment](https://github.com/Niyathnair/vader-vs-roberta-sentiment), [fake-news-lstm-classifier](https://github.com/Niyathnair/fake-news-lstm-classifier)
 - **Systems**: [floating-point-summation](https://github.com/Niyathnair/floating-point-summation), [restaurant-management-go](https://github.com/Niyathnair/restaurant-management-go)
