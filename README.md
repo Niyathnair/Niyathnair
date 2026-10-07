@@ -1,6 +1,6 @@
-# Hi, I'm Niyath Nair
-
-**Founding Research Engineer at AntHill AI**, based in Bengaluru. I build LLM systems that have to be right: retrieval, knowledge graphs, agents and text-to-SQL.
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal session. whoami: Niyath Nair, Bengaluru, India. Role: Founding Research Engineer at AntHill AI, ex-slice. About: I build LLM systems that have to be right. Focus: LLM retrieval, knowledge graphs, agents, text-to-SQL. Stack: Python, PyTorch, SQL, Rust, TypeScript, FastAPI, AWS SageMaker." />
+</div>
 
 Before this I was a Product Analyst at slice Small Finance Bank, and I studied materials engineering at IIT Jodhpur, where a Bi-GAN I built for lattice structure identification later turned into a market-risk stress-testing model.
 
